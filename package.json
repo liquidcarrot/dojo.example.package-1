@@ -1,0 +1,28 @@
+{
+  "name": "dojo.fibonacci",
+  "version": "1.0.0",
+  "description": "A simple JavaScript package. Hosted on GitHub. Published on NPM",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liquidcarrot/dojo.example.package-1.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "JS",
+    "ES5",
+    "ES6",
+    "ES7",
+    "ES8",
+    "ES9"
+  ],
+  "author": "Luis Carbonell <luis@liquidcarrot.io> (https://liquidcarrot.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liquidcarrot/dojo.example.package-1/issues"
+  },
+  "homepage": "https://github.com/liquidcarrot/dojo.example.package-1#readme"
+}
